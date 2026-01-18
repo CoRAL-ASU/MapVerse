@@ -1,2 +1,2 @@
-# Diversity-Map
+# MapVerse
 Please fill in the details.
