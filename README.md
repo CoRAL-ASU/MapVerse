@@ -1,2 +1,2 @@
 # Diversity-Map
-Please fill
+Please fill in the details.
