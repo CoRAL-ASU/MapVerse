@@ -1,0 +1,11 @@
+venv/
+venv_deepseek/
+__pycache__/
+tmp/
+results/
+plots/
+plots_tsne/
+plots_umap/
+final_results/
+heat_maps/
+legacy/
