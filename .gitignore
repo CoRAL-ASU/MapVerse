@@ -9,3 +9,4 @@ plots_umap/
 final_results/
 heat_maps/
 legacy/
+.DS_Store
